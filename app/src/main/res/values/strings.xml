@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">cwiddico_A1</string>
+    <string name="true_button">True</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="submit_button">Submit</string>
+
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">4</string>
+
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_oceans">The Pacific Ocean is Larger than the Atlantic ocean.</string>
+    <string name="question_mideast">The Suez Canal connects the Reed Sea and the Indian Ocean.</string>
+    <string name="question_africa">The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">The Amazon River is the longest river in the Americas.</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest freshwater lake.</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+
+    <string name="question_mult">Is this is a Multiple choice question?</string>
+    <string name="answer1_mult1">No</string>
+    <string name="answer2_mult1">Yes</string>
+    <string name="answer3_mult1">Maybe</string>
+    <string name="answer4_mult1">Dunno</string>
+
+    <string name="question_mult2">What is the biggest state in the U.S.?</string>
+    <string name="answer1_mult2">Texas</string>
+    <string name="answer2_mult2">Montana</string>
+    <string name="answer3_mult2">Florida</string>
+    <string name="answer4_mult2">Alaska</string>
+
+    <string name="question_blank">Is this a fill in the blank choice question?</string>
+    <string name="question_blank2">What is the capitol of Colorado</string>
+</resources>
